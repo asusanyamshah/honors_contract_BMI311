@@ -1,5 +1,5 @@
 seqn,Age,Sex,Marital,Income,Race,WaistCirc,BMI,Albuminuria,UrAlbCr,UricAcid,BloodGlucose,HDL,Triglycerides,MetabolicSyndrome
-62161,22,Male,Single,8200,White,81,23.3,0,3.88,4.9,92,41,84,0
+a,22,Male,Single,8200,White,81,23.3,0,3.88,4.9,92,41,84,0
 62164,44,Female,Married,4500,White,80.1,23.2,0,8.55,4.5,82,28,56,0
 62169,21,Male,Single,800,Asian,69.6,20.1,0,5.07,5.4,107,43,78,0
 62172,43,Female,Single,2000,Black,120.4,33.3,0,5.22,5,104,73,141,0
