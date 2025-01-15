@@ -1,0 +1,62 @@
+version,timestamp,model_name,accuracy,precision,recall,f1_score
+ROS on training data,2024-12-05 11:06:40,Random Forest,86.75,0.9224,0.8025,0.8583
+ROS on training data,2024-12-05 11:06:40,Decision Tree,82.5,0.8846,0.7475,0.8103
+ROS on training data,2024-12-05 11:06:40,XGBoost,87.38,0.9141,0.825,0.8673
+ROS on training data,2024-12-05 11:06:40,Logistic Regression,79.25,0.7683,0.8375,0.8014
+ROS on training data,2024-12-05 11:06:40,MLP,67.5,0.9023,0.3925,0.547
+ROS on training data,2024-12-05 11:06:40,TabNet,82.12,0.7824,0.89,0.8327
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ROS on training data,2025-01-07 18:11:56,Random Forest,86.75,0.9224,0.8025,0.8583
+ROS on training data,2025-01-07 18:11:56,Decision Tree,82.38,0.8866,0.7425,0.8082
+ROS on training data,2025-01-07 18:11:56,XGBoost,87.38,0.9141,0.825,0.8673
+ROS on training data,2025-01-07 18:11:56,Logistic Regression,79.25,0.7683,0.8375,0.8014
+ROS on training data,2025-01-07 18:11:56,MLP,67.5,0.9023,0.3925,0.547
+ROS on training data,2025-01-07 18:11:56,TabNet,82.12,0.7824,0.89,0.8327
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ROS on training data,2025-01-07 20:51:30,Random Forest,86.75,0.9224,0.8025,0.8583
+ROS on training data,2025-01-07 20:51:30,Decision Tree,82.0,0.881,0.74,0.8043
+ROS on training data,2025-01-07 20:51:30,XGBoost,87.38,0.9141,0.825,0.8673
+ROS on training data,2025-01-07 20:51:30,Logistic Regression,79.25,0.7683,0.8375,0.8014
+ROS on training data,2025-01-07 20:51:30,MLP,67.5,0.9023,0.3925,0.547
+ROS on training data,2025-01-07 20:51:30,TabNet,82.12,0.7824,0.89,0.8327
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ROS on training data,2025-01-07 20:51:57,Random Forest,86.75,0.9224,0.8025,0.8583
+ROS on training data,2025-01-07 20:51:57,Decision Tree,81.75,0.878,0.7375,0.8016
+ROS on training data,2025-01-07 20:51:57,XGBoost,87.38,0.9141,0.825,0.8673
+ROS on training data,2025-01-07 20:51:57,Logistic Regression,79.25,0.7683,0.8375,0.8014
+ROS on training data,2025-01-07 20:51:57,MLP,67.5,0.9023,0.3925,0.547
+ROS on training data,2025-01-07 20:51:57,TabNet,82.12,0.7824,0.89,0.8327
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ROS on training data,2025-01-07 20:52:53,Random Forest,85.25,0.9099,0.7825,0.8414
+ROS on training data,2025-01-07 20:52:53,Decision Tree,82.0,0.8787,0.7425,0.8049
+ROS on training data,2025-01-07 20:52:53,XGBoost,86.5,0.9033,0.8175,0.8583
+ROS on training data,2025-01-07 20:52:53,Logistic Regression,79.5,0.7719,0.8375,0.8034
+ROS on training data,2025-01-07 20:52:53,MLP,76.25,0.8201,0.6725,0.739
+ROS on training data,2025-01-07 20:52:53,TabNet,79.12,0.7335,0.915,0.8142
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ROS on training data,2025-01-14 17:30:55,Random Forest,85.25,0.9099,0.7825,0.8414
+ROS on training data,2025-01-14 17:30:55,Decision Tree,82.12,0.8882,0.735,0.8044
+ROS on training data,2025-01-14 17:30:55,XGBoost,86.5,0.9033,0.8175,0.8583
+ROS on training data,2025-01-14 17:30:55,Logistic Regression,79.5,0.7719,0.8375,0.8034
+ROS on training data,2025-01-14 17:30:55,MLP,76.25,0.8201,0.6725,0.739
+ROS on training data,2025-01-14 17:30:55,TabNet,79.12,0.7335,0.915,0.8142
