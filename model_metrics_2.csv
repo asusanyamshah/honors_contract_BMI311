@@ -60,3 +60,14 @@ ROS on training data,2025-01-14 17:30:55,XGBoost,86.5,0.9033,0.8175,0.8583
 ROS on training data,2025-01-14 17:30:55,Logistic Regression,79.5,0.7719,0.8375,0.8034
 ROS on training data,2025-01-14 17:30:55,MLP,76.25,0.8201,0.6725,0.739
 ROS on training data,2025-01-14 17:30:55,TabNet,79.12,0.7335,0.915,0.8142
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ROS on training data,2025-01-21 20:45:29,Random Forest,85.25,0.9099,0.7825,0.8414
+ROS on training data,2025-01-21 20:45:29,Decision Tree,81.88,0.8783,0.74,0.8033
+ROS on training data,2025-01-21 20:45:29,XGBoost,86.5,0.9033,0.8175,0.8583
+ROS on training data,2025-01-21 20:45:29,Logistic Regression,79.5,0.7719,0.8375,0.8034
+ROS on training data,2025-01-21 20:45:29,MLP,76.25,0.8201,0.6725,0.739
+ROS on training data,2025-01-21 20:45:29,TabNet,79.12,0.7335,0.915,0.8142
