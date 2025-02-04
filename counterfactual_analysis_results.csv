@@ -1,0 +1,18 @@
+Section,Metric,Value,Feature,Change Rate (%)
+Overall Metrics,Normalized Average Distance (Mean),1.247,,
+Overall Metrics,Normalized Average Distance (Std),1.248,,
+Overall Metrics,Average Feature Changes (Mean),1.472,,
+Overall Metrics,Average Feature Changes (Std),0.651,,
+Overall Metrics,Percentage of Features Changed,12.3%,,
+Feature-Specific Analysis,,,Triglycerides,48.5%
+Feature-Specific Analysis,,,BloodGlucose,41.8%
+Feature-Specific Analysis,,,UricAcid,4.4%
+Feature-Specific Analysis,,,BMI,3.6%
+Feature-Specific Analysis,,,UrAlbCr,3.6%
+Feature-Specific Analysis,,,HDL,23.1%
+Feature-Specific Analysis,,,Age,2.6%
+Feature-Specific Analysis,,,WaistCirc,19.7%
+Feature-Specific Analysis,,,Sex,0.0%
+Feature-Specific Analysis,,,Race,0.0%
+Feature-Specific Analysis,,,Income,0.0%
+Feature-Specific Analysis,,,Albuminuria,0.0%
